@@ -17,9 +17,10 @@
     <p align="center">
       <br/>
      </a>
-      <a href="https://mailto:support@serverside.fun" target="blank"><img align="center"
-         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
-         alt="azzar" height="30"/></a>
+      <a href="https://discordapp.com/users/1002269131690737685" target="blank"><img align="center"
+         src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo-700x394.png"
+         alt="Builderman#0740" height="30"/></a>
+  Builderman#0740
     </p>
   <p align="center">
      
